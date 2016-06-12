@@ -3,7 +3,7 @@
 
 In this instance I used
 
-pin 1 for power (vcc). pin 6 for ground. pins 2 and 3 for IN1 and IN2.
+pin 1 for power (vcc). pin 6 for ground. pins 2 and 3 for IN1 and IN2. I used a female to female breadboard jumper to connect them together.
 
 Only tested on dual the relay board, however it should work on larger boards by swapping the wires for different relayws when testing (like changing IN1 to IN3) or rewriting the code, I have made this easier aswell by placing end and starting comments in blocks for each 'Module' for which i am refering to individual relays.
 

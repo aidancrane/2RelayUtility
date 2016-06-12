@@ -1,4 +1,4 @@
-# ChatBox
+# 2RelayUtility
 2RelayUtility allows you to test boards, aswell as gpio pins on a Raspberry Pi, In addition to being easy to setup, it also is written so that other functions can be used by importing the relayinterface file. oyoy shows an example of how this is possible. if you plan to use it for that purpose, then you do not need relaymaster as it is purely a gui.
 
 In this instance I used
